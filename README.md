@@ -63,20 +63,21 @@ HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
 
 ```bash
 id:
-ssh bandit1@bandit.labs.overthewire.org -p 2220
+ssh bandit6@bandit.labs.overthewire.org -p 2220
 
 pass:
-263JGJPfgU6LtdEvgfWU1XP5yac29mFx
+morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj
+
 
 ```
 #Level 7
 
 ```bash
 id:
-ssh bandit2@bandit.labs.overthewire.org -p 2220
+ssh bandit7@bandit.labs.overthewire.org -p 2220
 
 pass:
-MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
+dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc
 
 ```
 
@@ -84,9 +85,63 @@ MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
 
 ```bash
 id:
-ssh bandit3@bandit.labs.overthewire.org -p 2220
+ssh bandit8@bandit.labs.overthewire.org -p 2220
 
 pass:
-2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
+4CKMh1JI91bUIZZPXDqGanal4xvAg0JM
+
+```
+
+#Level 9
+
+```bash
+id:
+ssh bandit9@bandit.labs.overthewire.org -p 2220
+
+pass:
+FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey
+
+```
+
+#Level 10
+
+```bash
+id:
+ssh bandit10@bandit.labs.overthewire.org -p 2220
+
+pass:
+dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr
+
+```
+
+#Level 11
+
+```bash
+id:
+ssh bandit11@bandit.labs.overthewire.org -p 2220
+
+pass:
+7x16WNeHIi5YkIhWsfFIqoognUTyj9Q4
+
+
+```
+#Level 12
+
+```bash
+id:
+ssh bandit12@bandit.labs.overthewire.org -p 2220
+
+pass:
+FO5dwFsc0cbaIiH0h8J2eUks2vdTDwAn
+
+```
+
+#Level 13
+
+```bash
+id:
+
+pass:
+
 
 ```
